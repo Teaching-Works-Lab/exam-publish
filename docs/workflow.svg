@@ -1,6 +1,6 @@
 <svg viewBox="0 0 680 300" width="100%" role="img" xmlns="http://www.w3.org/2000/svg">
 <title>试卷发布 Skill 的前馈—执行—终检主线</title>
-<desc>三阶段主线：前馈确认 Q0-Q9、执行（三个不可逆点必问）、发布前终检逐条核对后发布。</desc>
+<desc>主线：前馈确认 Q0-Q10、执行（三个不可逆点必问）、发布前终检后发布、答题纸最后微调自动暂停交用户。</desc>
 <defs>
 <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
 <path d="M2 1L8 5L2 9" fill="none" stroke="#888780" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
@@ -19,7 +19,7 @@
 <g>
 <rect x="40" y="50" width="180" height="66" rx="10" fill="#EEEDFE" stroke="#534AB7" stroke-width="0.5"/>
 <text x="130" y="76" class="tt" text-anchor="middle" dominant-baseline="central">1 · 前馈确认</text>
-<text x="130" y="99" class="st" text-anchor="middle" dominant-baseline="central">Q0–Q9 一次性问清</text>
+<text x="130" y="99" class="st" text-anchor="middle" dominant-baseline="central">Q0–Q10 一次性问清</text>
 </g>
 <path d="M224 83 L248 83" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
 
@@ -36,11 +36,13 @@
 <text x="550" y="99" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#854F0B" text-anchor="middle" dominant-baseline="central">逐条核对再发布</text>
 </g>
 
-<text x="40" y="158" class="tt">最高优先级前馈：多选题判分规则</text>
+<text x="40" y="140" class="cap">发布后 → 答题纸：核对默认字段 → 自动暂停，最后布局微调由用户手动完成</text>
+
+<text x="40" y="168" class="tt">最高优先级前馈：多选题判分规则</text>
 <g>
-<rect x="40" y="174" width="600" height="52" rx="10" fill="#FCEBEB" stroke="#A32D2D" stroke-width="0.5"/>
-<text x="56" y="200" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="600" fill="#501313" dominant-baseline="central">强制对齐三问</text>
-<text x="170" y="200" class="cap" dominant-baseline="central">题目怎么设计 → 系统设哪种 → 纸卷说明改不改；系统与纸卷一致才可导入</text>
+<rect x="40" y="178" width="600" height="52" rx="10" fill="#FCEBEB" stroke="#A32D2D" stroke-width="0.5"/>
+<text x="56" y="204" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="600" fill="#501313" dominant-baseline="central">强制对齐三问</text>
+<text x="170" y="204" class="cap" dominant-baseline="central">题目怎么设计 → 系统设哪种 → 纸卷说明改不改；系统与纸卷一致才可导入</text>
 </g>
 
 <text x="40" y="262" class="tt">硬约定</text>
