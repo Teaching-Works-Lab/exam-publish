@@ -26,7 +26,7 @@
 |---|---|
 | `SKILL.md` | 主入口：前馈→执行→终检→发布主线、铁律、决策树、与相邻 Skill 分工 |
 | `references/multi-choice-scoring.md` | **最高优先级前馈**：多选四种规则 + 强制对齐三问 + 纸卷文案映射 |
-| `references/feedforward-checklist.md` | Q0–Q10 前馈清单（系统形式、批阅模式、学生可见、发放班级、A/B卷文案、答题纸微调归属等） |
+| `references/feedforward-checklist.md` | Q0–Q11 前馈清单（系统形式、批阅模式、学生可见、发放班级、A/B卷文案、答题纸微调归属等） |
 | `references/pre-publish-checklist.md` | 发布前逐条可勾选终检单 + 终检结论复述模板 |
 | `references/execution-flow.md` | 执行顺序、三个不可逆提交点（加入试卷 / 发布 / 发通知）与答题纸人工暂停点 ④ |
 | `references/review-modes.md` | 普通批 / 整卷批 / 流水批、多人监考、多人共教一门课的批阅分工 |

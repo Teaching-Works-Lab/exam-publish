@@ -1,6 +1,6 @@
 <svg viewBox="0 0 680 300" width="100%" role="img" xmlns="http://www.w3.org/2000/svg">
 <title>试卷发布 Skill 的前馈—执行—终检主线</title>
-<desc>主线：前馈确认 Q0-Q10、执行（三个不可逆点必问）、发布前终检后发布、答题纸最后微调自动暂停交用户。</desc>
+<desc>主线：前馈确认 Q0-Q11、执行（三个不可逆点必问）、发布前终检后发布、答题纸最后微调自动暂停交用户。</desc>
 <defs>
 <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
 <path d="M2 1L8 5L2 9" fill="none" stroke="#888780" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
@@ -19,7 +19,7 @@
 <g>
 <rect x="40" y="50" width="180" height="66" rx="10" fill="#EEEDFE" stroke="#534AB7" stroke-width="0.5"/>
 <text x="130" y="76" class="tt" text-anchor="middle" dominant-baseline="central">1 · 前馈确认</text>
-<text x="130" y="99" class="st" text-anchor="middle" dominant-baseline="central">Q0–Q10 一次性问清</text>
+<text x="130" y="99" class="st" text-anchor="middle" dominant-baseline="central">Q0–Q11 一次性问清</text>
 </g>
 <path d="M224 83 L248 83" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
 
